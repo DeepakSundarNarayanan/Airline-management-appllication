@@ -18,11 +18,3 @@ Note: If you are using Eclipse, please have git CLI installed on your system or 
 
 Submissions will have deadlines, failed GitHub Actions would result in point deductions.
 
-### References
-1. Cloning a Repository: <https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository>
-2. Any GitHub Setup: Please refer to the Git & GitHub Fundamentals Repository shared to you by your respective TA and refer the README.md section
-
-Please reach out to your respective TA if you need any help in regards with submission/ GitHub
-
-Author:
-- Ruchika Sharma (sharma.ruc@northeastern.edu)
